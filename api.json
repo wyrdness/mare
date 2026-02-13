@@ -1,11 +1,9 @@
 {
-  "category": "ENTITY_SPIRIT",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
-    "repository": "https://github.com/wyrdness/mara",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/mare",
     "maintainers": [
       {
         "name": "Wyrdness Team",
@@ -18,286 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "mare",
     "name": "Mare",
-    "aliases": [
-      {
-        "name": "Mara",
-        "language": "Germanic/Slavic",
-        "meaning": "Root form"
-      },
-      {
-        "name": "Mora",
-        "language": "Scandinavian"
-      },
-      {
-        "name": "Mahr",
-        "language": "German"
-      },
-      {
-        "name": "Night-mare",
-        "language": "English",
-        "meaning": "Night-riding spirit"
-      }
-    ],
+    "aliases": [],
     "category": "ENTITY_SPIRIT",
-    "subcategory": "European Nightmare Spirit",
+    "subcategory": "Generic European Mare",
     "tags": [
-      "european",
-      "nightmare-spirit",
-      "sleep-paralysis",
-      "cross-cultural",
       "folklore",
-      "etymology",
-      "universal"
+      "mythology"
     ],
-    "status": "folklore",
+    "status": "documented",
     "description": {
-      "summary": "Generic European nightmare spirit from which the word 'nightmare' derives. A spirit entity that 'rides' sleepers at night, sitting on the chest to cause bad dreams, suffocation sensations, and sleep paralysis.",
-      "full": "The Mare is the generic European term for nightmare spirits found across Germanic, Slavic, and Scandinavian cultures. The English word 'nightmare' literally means 'night-mare'—a night visit from the Mare spirit, not referring to a female horse. This entity is believed to sit on or 'ride' sleeping victims like a horse, oppressing their breathing and inducing terrifying dreams and paralysis. Across European folklore, the Mare can manifest as a demonic entity or, in some traditions, as the involuntarily wandering soul of a living person. Folk beliefs held that the Mare could be trapped by securing the suspected person's body, preventing their spirit from wandering. Protection methods included iron objects, horseshoes, plugging keyholes to prevent entry, and Christian symbols. The Mare represents one of the most widespread and linguistically influential folklore entities, with variants appearing across nearly all European cultures as a cultural interpretation of the universal human experience of sleep paralysis."
+      "summary": "The Mare is the generic European term for nightmare spirits found across Germanic, Slavic, and Scandinavian cultures.",
+      "full": "The Mare is the generic European term for nightmare spirits found across Germanic, Slavic, and Scandinavian cultures. The English word **\\\"nightmare\\\" literally means \\\"night-mare\\\"**—a night visit from the Mare spirit, NOT referring to a female horse. This entity is believed to sit on or \\\"ride\\\" sleeping victims like a horse, oppressing their breathing and inducing terrifying dreams and paralysis. Across European folklore, the Mare can manifest as a demonic entity or, in some traditions, as the involuntarily wandering soul of a living person. The Mare represents one of the most widespread and linguistically influential folklore entities, with variants appearing across nearly all European cultures as a cultural interpretation of the universal human experience of sleep paralysis."
     },
     "etymology": {
-      "origin": "From Proto-Germanic *marōn, from Proto-Indo-European *mor- (to rub away, harm)",
-      "meaning": "The spirit that rides or oppresses during sleep",
-      "note": "NOT related to 'mare' meaning female horse—coincidental homonym in English"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "ENTITY_SPIRIT",
-      "type": "Nightmare Spirit",
-      "subtype": "Generic European Mare",
-      "variant": "Pan-European"
+      "type": "Generic European Mare",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "mara",
-        "name": "Mara",
-        "relationship": "variant",
-        "description": "Slavic/Germanic specific form"
-      },
-      {
-        "id": "alp",
-        "name": "Alp",
-        "relationship": "variant",
-        "description": "Germanic male version"
-      },
-      {
-        "id": "night-hag",
-        "name": "Night Hag",
-        "relationship": "similar",
-        "description": "Anglo-American sleep paralysis entity"
-      },
-      {
-        "id": "succubus-incubus",
-        "name": "Incubus/Succubus",
-        "relationship": "related",
-        "description": "Sometimes conflated with Mare in folklore"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "appearance": [
-        {
-          "feature": "Form",
-          "description": "Typically invisible or spiritual entity",
-          "frequency": "common"
-        },
-        {
-          "feature": "Weight",
-          "description": "Feels extremely heavy when sitting on chest",
-          "frequency": "always"
-        },
-        {
-          "feature": "Presence",
-          "description": "Sense of malevolent entity in room",
-          "frequency": "always"
-        }
-      ],
-      "nature": "Can be demonic entity or wandering soul of living person, depending on regional tradition",
-      "morphology": "Primarily incorporeal/spiritual"
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Riding sleepers",
-        "description": "Sits on or 'rides' victims like riding a horse",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Chest oppression",
-        "description": "Creates crushing weight sensation on chest",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Nightmare induction",
-        "description": "Causes terrifying dreams",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Suffocation",
-        "description": "Oppresses breathing, creates sensation of being smothered",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Terror induction",
-        "description": "Causes overwhelming fear",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "nocturnal",
-      "disposition": "malevolent or involuntary",
-      "attack_pattern": "Visits during sleep, particularly those sleeping on backs",
-      "double_nature": "Can be external demon OR wandering soul of living person (tradition-dependent)"
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
-  "folklore_traditions": {
-    "soul_wandering": {
-      "description": "In some traditions, the Mare is the soul of a living person that leaves the body involuntarily at night",
-      "identification": [
-        "Person appears exhausted despite sleeping",
-        "May sweat or appear disheveled upon waking",
-        "Born under certain conditions (caul, etc.)"
-      ],
-      "trap_method": "Securing or confining the suspected person's body prevents their soul from wandering"
-    },
-    "demonic_entity": {
-      "description": "In other traditions, the Mare is an independent evil spirit or demon",
-      "nature": "External malevolent entity seeking to torment sleepers"
-    }
-  },
-
-  "protection": {
-    "preventive_measures": [
-      {
-        "method": "Iron objects",
-        "description": "Iron under pillow or near bed repels Mare",
-        "effectiveness": "traditional"
-      },
-      {
-        "method": "Horseshoes",
-        "description": "Horseshoe above door (iron protection)",
-        "effectiveness": "traditional"
-      },
-      {
-        "method": "Block entry",
-        "description": "Plug keyholes, seal openings to prevent Mare entry",
-        "effectiveness": "traditional"
-      },
-      {
-        "method": "Christian symbols",
-        "description": "Crosses, prayers, holy water",
-        "effectiveness": "traditional"
-      },
-      {
-        "method": "Shoes backwards",
-        "description": "Place shoes with toes pointing away from bed",
-        "effectiveness": "traditional"
-      },
-      {
-        "method": "Broom by door",
-        "description": "Mare must count broom straws, delaying until dawn",
-        "effectiveness": "traditional"
-      }
-    ],
-    "trapping": [
-      {
-        "method": "Secure suspected Mare",
-        "description": "If Mare is believed to be a person's wandering soul, physically confining that person prevents wandering",
-        "effectiveness": "traditional"
-      }
-    ]
-  },
-
   "distribution": {
     "range": {
-      "description": "Pan-European phenomenon with variants across Germanic, Slavic, Scandinavian, and other European cultures",
-      "continents": ["Europe"],
-      "cultural_spread": "Nearly universal across European cultures",
-      "regional_names": [
-        "Mara (Germanic/Slavic)",
-        "Mora (Scandinavian)",
-        "Mahr (German)",
-        "Zmora (Polish)",
-        "Kikimora (Russian - related)"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Ancient European folk traditions dating to pre-Christian times",
-      "earliest_accounts": "Indo-European traditions, formalized in medieval texts",
-      "folklore_connections": "Related to worldwide sleep paralysis entity traditions"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "linguistic_evolution": {
-      "original_meaning": "Spirit entity that attacks sleepers",
-      "modern_meaning": "Bad dream (supernatural entity meaning lost in common usage)",
-      "preservation": "The word 'nightmare' preserves ancient folklore in modern language"
-    }
+    "timeline": []
   },
-
-  "etymology_detail": {
-    "breakdown": "Nightmare = 'Night' + 'Mare' (the spirit)",
-    "not_a_horse": "Despite modern confusion, 'mare' in 'nightmare' does NOT refer to a female horse. This is a coincidental homonym in English.",
-    "proto_indo_european": "*mor- (to rub away, harm)",
-    "proto_germanic": "*marōn (incubus, nightmare spirit)",
-    "evolution": "mare (spirit) → nightmare (spirit attack) → nightmare (bad dream)"
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
-  "scientific_explanation": {
-    "interpretation": "The Mare represents European cultural interpretation of sleep paralysis, a universal human physiological phenomenon",
-    "sleep_paralysis": "The sensation of chest pressure, inability to move, and hallucinations during sleep-wake transitions were interpreted as a spirit 'riding' the sleeper",
-    "universality": "Sleep paralysis affects all human populations; nearly every culture developed similar explanatory entities",
-    "status": "Traditional folklore explaining well-documented medical phenomenon"
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Germanic nightmare folklore",
-        "Slavic zmora legends",
-        "Scandinavian mara traditions",
-        "Pan-European folk beliefs"
-      ],
-      "role": "Primary European explanation for sleep paralysis and nightmares",
-      "cultural_sensitivity": "Important part of European folk heritage across multiple cultures"
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
-    "linguistic_legacy": {
-      "significance": "One of the most successful folklore concepts to survive in modern language",
-      "daily_usage": "Billions of people use the word 'nightmare' without knowing its origin as a supernatural entity",
-      "semantic_shift": "Rare example of supernatural entity name becoming purely psychological term"
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "sources": [
-    {
-      "id": "grimm-1835",
-      "type": "book",
-      "title": "Deutsche Mythologie (Teutonic Mythology)",
-      "authors": ["Jacob Grimm"],
-      "publication": "Various editions",
-      "date": "1835"
-    },
-    {
-      "id": "hufford-1982",
-      "type": "book",
-      "title": "The Terror That Comes in the Night",
-      "authors": ["David J. Hufford"],
-      "publication": "University of Pennsylvania Press",
-      "date": "1982",
-      "isbn": "978-0812211139"
-    }
-  ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
