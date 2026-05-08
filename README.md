@@ -1,353 +1,178 @@
 # Mare
 
-> *"The night-mare rides—an ancient demon in a modern word."*
+> The pan-European nightmare spirit — the 'mare' from which English 'nightmare' (literally 'night-mare') is derived. A malicious entity, typically female, in Germanic and Slavic folklore that 'rides' people's chests at night.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-folklore-orange)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `mare` |
 | **Category** | ENTITY_SPIRIT |
-| **Classification** | European Nightmare Spirit |
-| **Cultural Range** | Pan-European |
-| **Etymology** | Root of "nightmare" |
-| **Status** | Folklore / Sleep Paralysis |
+| **Subcategory** | Nightmare spirit (pan-European) |
+| **First recorded** | 1230-01-01 |
+| **Primary range** | Across Germanic-, Scandinavian-, and Slavic-speaking Europe, with cognates and continuations into modern French (cauchemar) and many other languages |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The Mare is the generic European term for nightmare spirits found across Germanic, Slavic, and Scandinavian cultures. The English word **"nightmare" literally means "night-mare"**—a night visit from the Mare spirit, NOT referring to a female horse.
-
-This entity is believed to sit on or "ride" sleeping victims like a horse, oppressing their breathing and inducing terrifying dreams and paralysis. Across European folklore, the Mare can manifest as a demonic entity or, in some traditions, as the involuntarily wandering soul of a living person.
-
-The Mare represents one of the most widespread and linguistically influential folklore entities, with variants appearing across nearly all European cultures as a cultural interpretation of the universal human experience of sleep paralysis.
+The Mare is the broad pan-European nightmare spirit known in Germanic, Scandinavian, and Slavic folklore. The English word 'nightmare' itself preserves the term: nyght-mare in Middle English meant a 'mara' visiting at night. The mare is described as a malicious entity, typically female, who sits, walks, or 'rides' on the chest of a sleeping person, causing bad dreams, suffocating sensations, sweating, and the experience now identified as sleep paralysis. The word descends from Old English mære and Old Norse mara, both from Proto-Germanic *marōn, ultimately from a Proto-Indo-European root meaning 'to crush' or 'to press'. The same element entered French as -mar in cauchemar (caucher 'to press' + mare). In Scandinavia, the earliest narrative reference is in Snorri Sturluson's Ynglinga saga (c. 1230), which describes the death of King Vanlandi by a mara conjured by the Sámi sorceress Huld. In German tradition the mare is closely linked to the Alp (Albtraum, 'alp-dream', is the standard German word for nightmare); in Polish and Czech tradition, the zmora / můra may be either a demonic being or the involuntarily wandering soul of a living person. Modern sleep medicine identifies the underlying experience as sleep paralysis with hypnagogic hallucination.
 
 ---
+## Names & Aliases
 
-## Etymology: Not a Horse!
+| Name | Origin | Meaning |
+|---|---|---|
+| Mære | Old English |  |
+| Mara | Old Norse / Old High German |  |
+| Mahr | German |  |
+| Cauchemar | French | 'pressing-mare' = nightmare |
+| Mareridt / Mareritt | Danish / Norwegian | 'mare-ride' = nightmare |
+| Mara | Swedish |  |
 
-### The Great Misconception
+## Etymology
 
-**NIGHTMARE ≠ A BAD DREAM ABOUT HORSES**
-
-Many modern English speakers mistakenly think "nightmare" relates to horses (mare = female horse). This is a **coincidental homonym**—the words have completely different origins.
-
-### Two Different "Mares"
-
-| Mare (horse) | Mare (demon) |
-|--------------|--------------|
-| Old English: *mere* | Old English: *mære* |
-| Meaning: female horse | Meaning: nightmare demon |
-| Origin: Germanic horse word | Origin: Proto-Indo-European *mor- (to harm) |
-| **UNRELATED WORDS** | **← This is in "nightmare"** |
-
-### The Real Etymology
-
-**Nightmare = "Night" + "Mare" (the demon)**
-
-**Proto-Indo-European**: *mor- (to rub away, harm)
-↓
-**Proto-Germanic**: *marōn (nightmare spirit)
-↓
-**Old English**: mære (demon, incubus)
-↓
-**Modern English**: mare in "night-mare"
+- **Origin**: Old English mære, Old Norse mara, Old High German mara, all from Proto-Germanic *marōn, ultimately from a PIE root meaning 'to crush, press, oppress'.
+- **Meaning**: 'Crusher' / 'oppressor' — the spirit that presses on the sleeper's chest.
+- **First use**: Attested in Old English and Old Norse from the early medieval period; the compound 'nightmare' is attested in Middle English from the late 13th–14th century.
 
 ---
+## Related Phenomena
 
-## Classification
-
-### Taxonomy
-```
-Category: ENTITY_SPIRIT
-├── Type: Nightmare Spirit
-├── Subtype: Generic European Mare
-└── Variant: Pan-European
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Mara](/mara) | Variant | Slavic/Germanic specific form |
-| [Alp](/alp) | Variant | Germanic male version |
-| [Night Hag](/night-hag) | Similar | Anglo-American sleep paralysis entity |
-| [Incubus/Succubus](/succubus-incubus) | Related | Sometimes conflated in folklore |
+- [Mara](../mara/) — _similar_: Continental and Slavic spelling of the same nightmare spirit
+- [Alp](../alp/) — _similar_: German nightmare creature; German Albtraum 'alp-dream' = nightmare
+- [Old Hag](../old-hag/) — _similar_: Newfoundland sleep-paralysis tradition
+- [Kanashibari](../kanashibari/) — _similar_: Japanese sleep-paralysis tradition
+- [Incubus / Succubus](../incubus/) — _related_: Latin Christian sleep-attack demons
 
 ---
+## Physical Description
 
-## Characteristics
+- **Morphology**: Insubstantial spirit, often invisible; when seen, appears as a small, often female figure entering through keyholes or chimneys.
 
-### Physical Description
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Form | Typically invisible or spiritual | Common |
-| Weight | Extremely heavy when sitting on chest | Always |
-| Presence | Overwhelming sense of malevolent entity | Always |
-| Appearance | When visible: varies by culture | Varies |
+|---|---|---|
+| Female form | Typically appears as a young woman or an old hag | always |
+| Shapeshifting | Can transform into animals (cat, dog, owl) or objects (straw, mouse) in Polish and Scandinavian tradition | common |
+| Chest-pressing posture | 'Rides' or sits on the sleeper's chest | always |
 
-### Nature
+## Reported Abilities
 
-The Mare can be:
-1. **Demonic Entity**: Independent evil spirit seeking to torment sleepers
-2. **Wandering Soul**: Spirit of living person leaving body involuntarily at night (some traditions)
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Causing nightmares | Source of the experience that gave English 'nightmare' its name | always | folklore |
+| Inducing chest-pressure and suffocation | Sits on the sleeper's chest, producing the sensations characteristic of sleep paralysis | always | folklore |
+| Hag-riding (mareridt) | In Scandinavian tradition the mare may 'ride' a victim through the night, leaving them exhausted by morning | common | folklore |
+| Mane-tangling | Said to ride and tangle the manes of horses, giving rise to 'elf-locks' / 'witches' stirrups' | occasional | folklore |
 
----
+## Behavior
 
-## Abilities
-
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Riding sleepers | Sits on or "rides" victims like horse | Folklore |
-| Chest oppression | Creates crushing weight on chest | Folklore |
-| Nightmare induction | Causes terrifying dreams | Folklore |
-| Suffocation | Oppresses breathing, smothering sensation | Folklore |
-| Terror induction | Causes overwhelming fear | Folklore |
-| Entry through barriers | Can enter through keyholes | Folklore |
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: bedchambers, stables (where mares 'ride' horses)
 
 ---
+## Distribution
 
-## Cultural Variations Across Europe
+Across Germanic-, Scandinavian-, and Slavic-speaking Europe, with cognates and continuations into modern French (cauchemar) and many other languages.
 
-The Mare appears in nearly every European culture:
-
-### Germanic Regions
-- **Mara/Mahr** (German): Female nightmare spirit
-- **Alp** (German/Austrian): Male nightmare demon with magic hat
-- **Emphasis**: Shapeshifting, magic hats, counting compulsions
-
-### Slavic Regions
-- **Mara/Zmora** (Polish, Czech, Slovak): Nightmare spirit
-- **Kikimora** (Russian): Related house spirit
-- **Emphasis**: Soul wandering, involuntary Maras, physical identification
-
-### Scandinavian Regions
-- **Mara/Mora** (Swedish, Norwegian, Danish): Nightmare spirit
-- **Emphasis**: Riding imagery, soul travel
-
-### British Isles
-- **Mare/Night Hag**: Nightmare entity
-- **Old Hag** (Newfoundland): Preserved term
-- **Emphasis**: Hag imagery, witchcraft connections
 
 ---
-
-## The "Riding" Metaphor
-
-### Why "Riding"?
-
-The Mare is said to **ride** sleepers, explaining the name structure:
-
-**Night-mare** = The Mare that rides at night
-
-**Riding Imagery**:
-- Sits astride the sleeper's chest
-- "Rides" them like riding a horse
-- Leaves victim exhausted as if they'd been ridden hard
-- Germanic verb "reiten" (to ride) often used
-
-This explains why the entity sits on the chest—it's riding the sleeper.
-
----
-
-## Folklore: The Wandering Soul
-
-### Soul Travel Tradition
-
-In some European traditions, the Mare is not an external demon but a person's spirit:
-
-**Characteristics of Human Mares**:
-- Soul leaves body during sleep
-- Wanders involuntarily at night
-- Attacks sleepers without conscious intent
-- Person may be unaware during waking hours
-
-**Identification Signs**:
-- Exhaustion despite sleep
-- Disheveled appearance upon waking
-- Sweating during sleep
-- Born with caul or under specific conditions
-
-**Trapping Method**: Securing or confining the suspected Mare's physical body prevents their soul from wandering.
-
----
-
-## Protection Methods
-
-### Traditional European Protections
-
-| Method | Description | Widespread Use |
-|--------|-------------|----------------|
-| Iron objects | Iron under pillow or near bed | Pan-European |
-| Horseshoes | Iron horseshoe above door | Germanic/British |
-| Block entry | Plug keyholes, seal openings | Pan-European |
-| Christian symbols | Crosses, prayers, holy water | Post-Christian Europe |
-| Shoes backwards | Toes pointing away from bed | Germanic/Slavic |
-| Broom by door | Mare must count straws until dawn | Germanic |
-| Garlic | Hung in room | Slavic |
-| Knife under pillow | Iron/steel blade protection | Various |
-
-### The Counting Compulsion
-
-Like many European spirits, the Mare (in some traditions) has a compulsion to count objects. Placing a broom by the door or scattering seeds forces the Mare to count every item, keeping it occupied until sunrise when it must flee.
-
----
-
-## Geographic Distribution
-
-### Pan-European Phenomenon
-
-The Mare concept appears across:
-- **Germanic regions**: Germany, Austria, Netherlands, England
-- **Slavic regions**: Poland, Czech Republic, Russia, Balkans
-- **Scandinavian regions**: Sweden, Norway, Denmark, Iceland
-- **Celtic regions**: Scotland, Ireland, Wales
-- **Romance regions**: France, Spain (related entities)
-
-### Regional Name Variations
-
-| Region | Name | Pronunciation |
-|--------|------|---------------|
-| German | Mahr/Mara | MAR-ah |
-| Swedish | mara | MAH-rah |
-| Polish | zmora | ZMOH-rah |
-| English | Mare | MAIR |
-| Norwegian | mare | MAH-reh |
-
----
-
-## Scientific Explanation
-
-### Sleep Paralysis
-
-The Mare represents European cultural interpretation of **sleep paralysis**:
-
-**Mare Attack** → **Medical Reality**
-- "Mare sitting on chest" → Hallucinated pressure during REM atonia
-- "Cannot move" → REM paralysis persisting into waking
-- "Cannot breathe" → Perception of restricted breathing
-- "Terrifying presence" → Hypnagogic hallucination
-- "Riding sensation" → Cultural interpretation of pressure
-
-**Status**: Traditional folklore explaining well-documented parasomnia
-
-### Universal Experience, Local Interpretation
-
-Sleep paralysis affects all human populations. The Mare is Europe's interpretation of this universal physiological phenomenon.
-
----
-
-## The Linguistic Legacy
-
-### How the Word Survived
-
-The Mare is one of the most successful folklore entities linguistically:
-
-1. **Ancient demon** → Causes nightmares
-2. **Word formation** → "Night-mare" for demon attack
-3. **Meaning shift** → From demon to the dream itself
-4. **Supernatural fades** → Medical understanding replaces belief
-5. **Word survives** → "Nightmare" used daily, origin forgotten
-
-### Modern Usage
-
-**Daily Impact**:
-- Billions of people use "nightmare" regularly
-- Few know it means "night-demon"
-- Original supernatural meaning preserved only in folklore studies
-- Successful transition from supernatural to psychological term
-
----
-
 ## Historical Timeline
 
-### Ancient/Medieval
-Mare traditions established across European cultures, integrated into folk beliefs and practices.
+| Date | Event | Significance |
+|---|---|---|
+| 1230-01-01 | Snorri Sturluson's Ynglinga saga records King Vanlandi's death by mara | Earliest narrative reference to a mare in Scandinavian literature |
+| 1300-01-01 | Middle English compound nyght-mare attested | Modern English word 'nightmare' enters the language |
+| 1781-01-01 | Henry Fuseli paints The Nightmare, depicting an incubus on a sleeper's chest with a horse looking on — visual touchstone for the European mare tradition | Defining image of the mare in Western art |
 
-### Medieval-Early Modern
-Mare beliefs intertwined with witchcraft beliefs; sometimes conflated with succubi/incubi.
+---
+## Notable Sightings
 
-### 18th-19th Century
-Romantic period sees documentation of Mare folklore; beginning of scientific sleep research.
-
-### 20th Century
-Discovery of REM sleep explains mechanism; folklore begins separating from medical understanding.
-
-### 21st Century
-Mare relegated to folklore; "nightmare" fully separated from original supernatural meaning.
+### Death of King Vanlandi (Ynglinga saga) ⭐
+> **Date**: 1230-01-01  
+> **Location**: Uppsala, in the legendary tradition of the Yngling kings (recorded c. 1230)  
+> **Witnesses**: 0 (Saga tradition (Snorri Sturluson))  
+> **Evidence**: Saga text  
+Snorri's Ynglinga saga relates that King Vanlandi Sveigðisson of Uppsala was killed by a mara conjured by the Sámi sorceress Huld at the bidding of Vanlandi's abandoned wife Drífa. As Vanlandi slept, the mara 'trod on his legs'; when his men seized his head, the mara 'pressed down on his head' and crushed him to death.
+**Credibility**: low — The earliest recorded mare narrative in Scandinavian literature.
+**Sources**: Snorri Sturluson, Heimskringla, Ynglinga saga, ch. 13
 
 ---
 
-## Artistic Representation
 
-### "The Nightmare" by Henry Fuseli (1781)
+## Evidence
 
-The most famous artistic depiction of the Mare concept:
-- Shows demon/incubus on sleeping woman's chest
-- Horse's head in background (possibly visual pun on "mare")
-- Iconic image of nightmare concept
-- Influenced Western visual understanding of nightmares
+### Documentary
 
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const mare = await wyrd.getPhenomenon('mare');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/mare/main/api.json
-```
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Ynglinga saga in Heimskringla | 1230 | Snorri Sturluson's account of the death of King Vanlandi at the hands of a mara is the earliest extant narrative record. | disputed |
 
 ---
+## Theories & Explanations
 
-## Sources & References
+### Paranormal / Cryptozoological
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
+**Genuine sleep-spirit** _(Germanic, Slavic, and Scandinavian folk tradition)_
 
-### Primary Sources
+The mare is a real spiritual being who attacks sleepers, as understood in pre-Christian and folk-Christian Germanic and Slavic Europe.
 
-- Grimm, J. (1835). *Deutsche Mythologie (Teutonic Mythology)*.
-- Hufford, D.J. (1982). *The Terror That Comes in the Night*. University of Pennsylvania Press.
+### Scientific
+
+**Sleep paralysis with hypnagogic hallucination** _(J. Allan Cheyne, Sleep researchers more broadly)_
+
+The mare is a folkloric interpretation of the well-described physiological state of sleep paralysis, in which REM atonia persists into wakefulness and is accompanied by chest-pressure sensations and visual or tactile hallucinations.
+
+### Skeptical
+
+**Cultural elaboration of a physiological experience** _(Folklorists and sleep-paralysis researchers)_
+
+Mare folklore is a culturally specific elaboration of a universal physiological experience.
+
+
+## Popular Culture
+
+**Literature**: Snorri Sturluson, Heimskringla (Ynglinga saga, c. 1230); Jacob and Wilhelm Grimm, Deutsche Mythologie (1835); Numerous European folklore collections
+
+**Games**: The mare appears as a recurring nightmare-spirit figure in fantasy games (Persona, The Witcher, Final Fantasy)
+
+**Other**: Etymological source of English 'nightmare' and many cognates across Europe; Henry Fuseli, The Nightmare (1781) — defining visual depiction
 
 ---
+## Research
 
-## Changelog
+### Researchers
 
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Jacob Grimm | Philologist and folklorist | Treated the Mare in detail in Deutsche Mythologie (1835), placing it within Germanic mythology | 19th century |
+| J. Allan Cheyne | University of Waterloo (cognitive psychology) | Studies of sleep paralysis as the experiential basis of mare-type traditions | 1990s–2010s |
+
+The Mare is studied within Germanic and Slavic philology, comparative folklore, and the cognitive science of sleep paralysis.
 
 ---
+## Sources
 
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Experience](../../issues/new) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
